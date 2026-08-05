@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jayrajvaniya/DAA-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/jayrajvaniya/DAA-Assignment/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/jayrajvaniya/DAA-Assignment/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayrajvaniya/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jayrajvaniya/DAA-Assignment/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayrajvaniya/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayrajvaniya/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jayrajvaniya/DAA-Assignment/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
